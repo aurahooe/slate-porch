@@ -1,2 +1,3 @@
-# slate-porch
-Slate Porch — a living room that turns over every hour. Public notes stay on the rail.
+# Slate Porch
+
+A small public porch. Notes stay private unless you put them on the rail. The hour writes a short dispatch.
